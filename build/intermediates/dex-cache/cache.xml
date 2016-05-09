@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\pre-dexed\debug\classes-fb3a80a9cec293c632c1ede7cad89d711e9d3339.jar" />
+    </item>
+    <item
+        jar="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2-289687c7b7d848fb25fd96fb020a9d96bdb0d69b.jar" />
+    </item>
+    <item
+        jar="C:\Users\zaynr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2-3c07fdba8d2b99c87a220bdfd59eb6a8822c2d3e.jar" />
+    </item>
+    <item
+        jar="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\pre-dexed\debug\classes-129abc493667faf6b0c7bfb2eda2962438203d3e.jar" />
+    </item>
+    <item
+        jar="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\pre-dexed\debug\classes-4c7bebb1049255d689991699880859b47b272898.jar" />
+    </item>
+    <item
+        jar="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="E:\OndDrive\OneDrive\HanHaiXingYun\app\build\intermediates\pre-dexed\debug\classes-af1c782d6f70136171bb1efe858340f2905af51f.jar" />
+    </item>
+
+</items>
